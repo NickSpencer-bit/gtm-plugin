@@ -1,5 +1,5 @@
 homepage: "https://seersco.com/"
 documentation: "https://seersco.com/"
 versions:
-  - sha: a6cdd2503c7e89d20fb1417036d0a5866ce5b512
-  changeNotes: Initial Version
+  - sha: f36e746ed3a502e4c7aa518a07bb89ec61e17e05
+    changeNotes: Initial release.
