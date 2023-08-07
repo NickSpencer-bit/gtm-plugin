@@ -1,5 +1,5 @@
 homepage: "https://seersco.com/"
 documentation: "https://seersco.com/"
 versions:
-  - sha: ded66c2
-  changeNotes: update metadata file
+  - sha: e2d2024a8dcae701da89bf0b3ba62efe70bf7461
+  changeNotes: Initial Version
